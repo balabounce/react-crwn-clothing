@@ -1,5 +1,6 @@
 * {
     font-family: 'Open Sans Condensed';
+    box-sizing: border-box;
 }
 body {
     padding: 20px 60px;
@@ -8,4 +9,12 @@ body {
 a {
     text-decoration: none;
     color: #000;
+}
+
+.fz-35 {
+    font-size: 35px;
+}
+
+.fz-23 {
+    font-size: 23px;
 }
