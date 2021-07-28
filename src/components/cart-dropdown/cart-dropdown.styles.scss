@@ -14,6 +14,16 @@
     overflow-x: hidden;
     overflow-y: auto;
 
+    .empty-message {
+      font-size: 28px;
+      display: inline-block;
+      margin-top: 50px;
+      width: 160px;
+      margin-left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+    }
+
     .cart-items {
       height: 240px;
       display: flex;
